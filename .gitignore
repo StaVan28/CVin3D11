@@ -1,0 +1,7 @@
+.venv
+.ipynb_checkpoints
+
+Stanford3dDataset_v1.2_Aligned_Version
+semantic3d_dataset*
+bildstein_station1_xyz_intensity_rgb*
+
