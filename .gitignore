@@ -1,5 +1,8 @@
 .venv
+13
+*.zip
 .ipynb_checkpoints
+meshes
 
 Stanford3dDataset_v1.2_Aligned_Version
 semantic3d_dataset*
